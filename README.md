@@ -368,3 +368,6 @@ new GMapTool(array(
     'id' => 'google-map',
 ));
 ```
+## Альлернатива
+https://www.advancedcustomfields.com/resources/google-map/
+https://www.advancedcustomfields.com/blog/google-maps-api-settings/
