@@ -362,3 +362,9 @@ new GMapTool(array(
 ));
 ?>
 ```
+## Чтобы разместить несколько карт на странице - в выводе карт меняем id  
+```php
+new GMapTool(array(
+    'id' => 'google-map',
+));
+```
