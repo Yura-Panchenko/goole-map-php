@@ -134,5 +134,5 @@ public function display($args = null)
     Значение: массив стилей для карты.
     Необязательный параметр.
     Если не задано – карта будет иметь стандартный вид.
-    Может быть получен с помощью онлайн-утилиты google (http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html)
-    Наборы готовых стилей можно найти на сайте (http://snazzymaps.com)
+    Может быть получен с помощью онлайн-утилиты google [inline link](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html)
+    Наборы готовых стилей можно найти на сайте [inline link](http://snazzymaps.com)
